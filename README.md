@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0054-spiral-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhay71044/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
