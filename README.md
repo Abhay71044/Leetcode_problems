@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3731-find-missing-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
