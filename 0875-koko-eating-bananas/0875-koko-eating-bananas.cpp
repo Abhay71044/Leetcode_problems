@@ -1,28 +1,34 @@
 class Solution {
 public:
 
-    long long totalHours(vector<int>& piles, int speed) {
-        long long hours = 0;
-        for(int bananas : piles) {
-            hours += bananas / speed;
-            if(bananas % speed != 0)
-                hours++;
+    int maxEle(vector<int>&arr){
+        int maxi=-1;
+        for(int i=0;i<arr.size();i++){
+            maxi=max(maxi,arr[i]);
         }
-        return hours;
+        return maxi;
     }
 
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1;
-        int high = *max_element(piles.begin(), piles.end());
-        int ans = high;
-        while(low <= high) {
-            int mid = low + (high - low) / 2;
-            if(totalHours(piles, mid) <= h) {
-                ans = mid;
-                high = mid - 1;
+    long long totaltime(vector<int>&arr,int h){
+        long long thr=0;
+        for(int i=0;i<arr.size();i++){
+            thr+=ceil((double)arr[i] / (double) h);
+        }
+        return thr;
+    }
+
+    int minEatingSpeed(vector<int>& arr, int h) {
+        int low=1;
+        int high=maxEle(arr);
+        int ans=0;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(totaltime(arr,mid)<=h){
+                ans=mid;
+                high=mid-1;
             }
-            else {
-                low = mid + 1;
+            else{
+                low=mid+1;
             }
         }
         return ans;
