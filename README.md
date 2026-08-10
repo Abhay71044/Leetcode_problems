@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Abhay71044/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Greedy
 |  |
 | ------- |
