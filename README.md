@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Abhay71044/Leetcode_problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Abhay71044/Leetcode_problems/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
