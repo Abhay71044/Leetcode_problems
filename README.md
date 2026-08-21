@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2293-min-max-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/2293-min-max-game) |
 | [2418-sort-the-people](https://github.com/Abhay71044/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Abhay71044/Leetcode_problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
