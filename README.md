@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Abhay71044/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Abhay71044/Leetcode_problems/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abhay71044/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhay71044/Leetcode_problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Abhay71044/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhay71044/Leetcode_problems/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhay71044/Leetcode_problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
