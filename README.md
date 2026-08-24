@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhay71044/Leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Abhay71044/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/1922-count-good-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/Abhay71044/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/Abhay71044/Leetcode_problems/tree/master/2437-number-of-valid-clock-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abhay71044/Leetcode_problems/tree/master/0051-n-queens) |
 | [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -353,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhay71044/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
