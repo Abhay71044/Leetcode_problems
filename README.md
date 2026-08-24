@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Abhay71044/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhay71044/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/Abhay71044/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abhay71044/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abhay71044/Leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Abhay71044/Leetcode_problems/tree/master/0051-n-queens) |
+| [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
 ## Algorithm X
 |  |
 | ------- |
