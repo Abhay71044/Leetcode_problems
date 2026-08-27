@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Abhay71044/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhay71044/Leetcode_problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhay71044/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
