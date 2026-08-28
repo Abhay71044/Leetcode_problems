@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Abhay71044/Leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/Abhay71044/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/Abhay71044/Leetcode_problems/tree/master/2437-number-of-valid-clock-times) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
