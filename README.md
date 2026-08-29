@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Abhay71044/Leetcode_problems/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Abhay71044/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
