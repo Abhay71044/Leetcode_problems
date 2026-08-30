@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Abhay71044/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
