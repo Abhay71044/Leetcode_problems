@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhay71044/Leetcode_problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
+| [0390-elimination-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Abhay71044/Leetcode_problems/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
+| [0390-elimination-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Queue
