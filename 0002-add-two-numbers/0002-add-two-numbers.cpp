@@ -10,39 +10,18 @@
  */
 class Solution {
 public:
-
-    ListNode* reverse(ListNode* head){
-        if(head==NULL || head->next==NULL) return head;
-        ListNode* prev=NULL;
-        ListNode* curr=head;
-        ListNode* forward=curr->next;
-        while(curr!=NULL){
-            forward=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=forward;
-        }
-        return prev;
-    }
-
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        // l1=reverse(l1);
-        // l2=reverse(l2);
-
         if(l1==NULL) return l2;
         if(l2==NULL) return l1;
-
-        ListNode* anshead=NULL;
-        ListNode* anstail=NULL;
-
+        ListNode* anshead = NULL;
+        ListNode* anstail = NULL;
         int carry=0;
         while(l1!=NULL && l2!=NULL){
             int sum=l1->val + l2->val + carry;
             int digit=sum%10;
             carry=sum/10;
-            ListNode* newNode=new ListNode(digit);
-
-            if(anshead==NULL){
+            ListNode* newNode = new ListNode(digit);
+            if(anshead == NULL){
                 anshead=newNode;
                 anstail=newNode;
             }
@@ -54,19 +33,19 @@ public:
             l2=l2->next;
         }
         while(l1!=NULL){
-            int sum=l1->val + carry;
+            int sum=l1->val+carry;
             int digit=sum%10;
             carry=sum/10;
-            ListNode* newNode=new ListNode(digit);
+            ListNode* newNode = new ListNode(digit);
             anstail->next=newNode;
             anstail=newNode;
             l1=l1->next;
         }
         while(l2!=NULL){
-            int sum=l2->val + carry;
+            int sum=l2->val+carry;
             int digit=sum%10;
             carry=sum/10;
-            ListNode* newNode=new ListNode(digit);
+            ListNode* newNode = new ListNode(digit);
             anstail->next=newNode;
             anstail=newNode;
             l2=l2->next;
@@ -75,11 +54,10 @@ public:
             int sum=carry;
             int digit=sum%10;
             carry=sum/10;
-            ListNode* newNode=new ListNode(digit);
+            ListNode* newNode= new ListNode(digit);
             anstail->next=newNode;
             anstail=newNode;
         }
-        
         return anshead;
     }
 };
