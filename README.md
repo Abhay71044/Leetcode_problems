@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay71044/Leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Trie
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
