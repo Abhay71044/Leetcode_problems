@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay71044/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay71044/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Abhay71044/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2293-min-max-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Greedy
 |  |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Trie
 |  |
@@ -525,10 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
 |  |
