@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Abhay71044/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abhay71044/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Abhay71044/Leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Abhay71044/Leetcode_problems/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay71044/Leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhay71044/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
