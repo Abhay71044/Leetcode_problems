@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay71044/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay71044/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Abhay71044/Leetcode_problems/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay71044/Leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
 | ------- |
