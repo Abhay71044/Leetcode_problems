@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/Abhay71044/Leetcode_problems/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Abhay71044/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhay71044/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Abhay71044/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
