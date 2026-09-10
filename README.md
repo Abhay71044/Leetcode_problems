@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhay71044/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhay71044/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhay71044/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhay71044/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Abhay71044/Leetcode_problems/tree/master/0155-min-stack) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
