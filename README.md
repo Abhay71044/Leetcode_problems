@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0216-combination-sum-iii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhay71044/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Abhay71044/Leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
@@ -570,9 +572,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhay71044/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abhay71044/Leetcode_problems/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
