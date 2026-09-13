@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/Abhay71044/Leetcode_problems/tree/master/0817-linked-list-components) |
+| [0835-image-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Abhay71044/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0835-image-overlap) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
