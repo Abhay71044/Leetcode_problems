@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bracket Sequences
