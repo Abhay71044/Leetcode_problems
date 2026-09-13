@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Abhay71044/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay71044/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
@@ -590,14 +591,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Abhay71044/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abhay71044/Leetcode_problems/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Abhay71044/Leetcode_problems/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Abhay71044/Leetcode_problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
