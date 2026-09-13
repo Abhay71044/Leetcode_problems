@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Abhay71044/Leetcode_problems/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Abhay71044/Leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
