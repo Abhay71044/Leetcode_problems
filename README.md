@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Abhay71044/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
 | ------- |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
