@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3523-make-array-non-decreasing](https://github.com/Abhay71044/Leetcode_problems/tree/master/3523-make-array-non-decreasing) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay71044/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3523-make-array-non-decreasing](https://github.com/Abhay71044/Leetcode_problems/tree/master/3523-make-array-non-decreasing) |
 ## Counting
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
+| [3523-make-array-non-decreasing](https://github.com/Abhay71044/Leetcode_problems/tree/master/3523-make-array-non-decreasing) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhay71044/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/Abhay71044/Leetcode_problems/tree/master/3523-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
