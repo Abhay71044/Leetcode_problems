@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhay71044/Leetcode_problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
 |  |
