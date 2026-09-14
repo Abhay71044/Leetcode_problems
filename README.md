@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
 ## Greedy
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/Abhay71044/Leetcode_problems/tree/master/3174-clear-digits) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Abhay71044/Leetcode_problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bracket Sequences
