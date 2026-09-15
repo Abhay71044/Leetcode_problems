@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Abhay71044/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0229-majority-element-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Abhay71044/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Abhay71044/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
