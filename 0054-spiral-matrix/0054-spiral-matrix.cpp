@@ -3,35 +3,34 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int m=matrix.size();
         int n=matrix[0].size();
-        int totalelements=m*n;
+        int totalelement=m*n;
+        int startrow=0;
+        int startcol=0;
+        int endrow=m-1;
+        int endcol=n-1;
         int count=0;
         vector<int>ans;
-
-        int top=0;
-        int bottom=m-1;
-        int left=0;
-        int right=n-1;
-        while(count<totalelements){
-            for(int i=left;i<=right && count<totalelements;i++){
-                ans.push_back(matrix[top][i]);
+        while(count<totalelement){
+            for(int i=startcol;i<=endcol && count<totalelement;i++){
+                ans.push_back(matrix[startrow][i]);
                 count++;
             }
-            top++;
-            for(int i=top;i<=bottom && count<totalelements;i++){
-                ans.push_back(matrix[i][right]);
+            startrow++;
+            for(int i=startrow;i<=endrow && count<totalelement;i++){
+                ans.push_back(matrix[i][endcol]);
                 count++;
             }
-            right--;
-            for(int i=right;i>=left && count<totalelements;i--){
-                ans.push_back(matrix[bottom][i]);
+            endcol--;
+            for(int i=endcol;i>=startcol && count<totalelement;i--){
+                ans.push_back(matrix[endrow][i]);
                 count++;
             }
-            bottom--;
-            for(int i=bottom;i>=top && count<totalelements;i--){
-                ans.push_back(matrix[i][left]);
+            endrow--;
+            for(int i=endrow;i>=startrow && count<totalelement;i--){
+                ans.push_back(matrix[i][startcol]);
                 count++;
             }
-            left++;
+            startcol++;
         }
         return ans;
     }
