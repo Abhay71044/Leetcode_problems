@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Abhay71044/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1655-distribute-repeating-integers](https://github.com/Abhay71044/Leetcode_problems/tree/master/1655-distribute-repeating-integers) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Matrix
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Abhay71044/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhay71044/Leetcode_problems/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
