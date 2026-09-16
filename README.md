@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay71044/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Abhay71044/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2293-min-max-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 | [2418-sort-the-people](https://github.com/Abhay71044/Leetcode_problems/tree/master/2418-sort-the-people) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Abhay71044/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/1776-car-fleet-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhay71044/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Abhay71044/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
