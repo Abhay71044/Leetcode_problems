@@ -17,13 +17,14 @@ public:
         return thr;
     }
 
-    int minEatingSpeed(vector<int>& arr, int h) {
+    int minEatingSpeed(vector<int>& piles, int h) {
+        if(piles.size()>h) return -1;
         int low=1;
-        int high=maxEle(arr);
+        int high=maxEle(piles);\
         int ans=0;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(totaltime(arr,mid)<=h){
+            int mid=(low+high)/2;
+            if(totaltime(piles,mid)<=h){
                 ans=mid;
                 high=mid-1;
             }
