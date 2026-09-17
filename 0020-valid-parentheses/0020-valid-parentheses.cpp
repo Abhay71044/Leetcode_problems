@@ -9,13 +9,13 @@ public:
             }
             else{
                 if(!st.empty()){
-                    if(ch==')' && st.top() == '('){
+                    if(st.top()=='(' && ch==')'){
+                        st.pop();
+                    } 
+                    else if(st.top()=='{' && ch=='}'){
                         st.pop();
                     }
-                    else if(ch=='}' && st.top() == '{'){
-                        st.pop();
-                    }
-                    else if(ch==']' && st.top() == '['){
+                    else if(st.top()=='[' && ch==']'){
                         st.pop();
                     }
                     else{
@@ -27,9 +27,7 @@ public:
                 }
             }
         }
-        if(st.empty()){
-            return true;
-        }
+        if(st.empty()) return true;
         return false;
     }
 };
