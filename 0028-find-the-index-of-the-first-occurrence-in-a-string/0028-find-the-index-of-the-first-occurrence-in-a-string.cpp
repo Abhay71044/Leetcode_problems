@@ -5,7 +5,7 @@ public:
         int m=needle.size();
         for(int i=0;i<=n-m;i++){
             for(int j=0;j<m;j++){
-                if(needle[j]!=haystack[i+j]){
+                if(haystack[i+j] != needle[j]){
                     break;
                 }
                 if(j==m-1){
