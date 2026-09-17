@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Abhay71044/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
