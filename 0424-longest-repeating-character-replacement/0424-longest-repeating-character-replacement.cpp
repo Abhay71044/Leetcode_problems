@@ -13,8 +13,8 @@ public:
                 freq[s[l]-'A']--;
                 l++;
             }
-            ans=max(ans,r-l);
+            ans=max(ans,r-l+1);
         }
-        return ans+1;
+        return ans;
     }
 };
