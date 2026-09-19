@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Abhay71044/Leetcode_problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Abhay71044/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Abhay71044/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhay71044/Leetcode_problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Abhay71044/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Abhay71044/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay71044/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Abhay71044/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhay71044/Leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhay71044/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Abhay71044/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Abhay71044/Leetcode_problems/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Abhay71044/Leetcode_problems/tree/master/0901-online-stock-span) |
