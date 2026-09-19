@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Abhay71044/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0394-decode-string) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abhay71044/Leetcode_problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Abhay71044/Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0390-elimination-game) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Abhay71044/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Abhay71044/Leetcode_problems/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
