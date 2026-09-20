@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0268-missing-number) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay71044/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1776-car-fleet-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/1776-car-fleet-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay71044/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay71044/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhay71044/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
@@ -793,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
