@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Abhay71044/Leetcode_problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Abhay71044/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhay71044/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/Abhay71044/Leetcode_problems/tree/master/0817-linked-list-components) |
+| [0904-fruit-into-baskets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/Abhay71044/Leetcode_problems/tree/master/1079-letter-tile-possibilities) |
 | [1655-distribute-repeating-integers](https://github.com/Abhay71044/Leetcode_problems/tree/master/1655-distribute-repeating-integers) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay71044/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay71044/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay71044/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Euclidean Algorithm
