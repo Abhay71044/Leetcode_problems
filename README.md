@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhay71044/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Abhay71044/Leetcode_problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Abhay71044/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhay71044/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhay71044/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abhay71044/Leetcode_problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Abhay71044/Leetcode_problems/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0268-missing-number) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhay71044/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Abhay71044/Leetcode_problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Abhay71044/Leetcode_problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhay71044/Leetcode_problems/tree/master/0844-backspace-string-compare) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhay71044/Leetcode_problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0136-single-number) |
