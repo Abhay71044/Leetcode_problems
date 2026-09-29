@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhay71044/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Abhay71044/Leetcode_problems/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 | [2418-sort-the-people](https://github.com/Abhay71044/Leetcode_problems/tree/master/2418-sort-the-people) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhay71044/Leetcode_problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Abhay71044/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhay71044/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhay71044/Leetcode_problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhay71044/Leetcode_problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhay71044/Leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0204-count-primes) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Abhay71044/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhay71044/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhay71044/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Bitmask
 |  |
 | ------- |
