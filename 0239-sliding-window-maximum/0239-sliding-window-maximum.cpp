@@ -11,7 +11,7 @@ public:
         }
         ans.push_back(nums[dq.front()]);
         for(int i=k;i<nums.size();i++){
-            if(!dq.empty() && i-dq.front()>=k){
+            if(i-dq.front()>=k){
                 dq.pop_front();
             }
             while(!dq.empty() && nums[i]>=nums[dq.back()]){
