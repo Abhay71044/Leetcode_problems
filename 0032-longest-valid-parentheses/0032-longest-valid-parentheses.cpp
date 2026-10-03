@@ -1,9 +1,9 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
+        int maxi=0;
         stack<int>st;
         st.push(-1);
-        int maxi=0;
         for(int i=0;i<s.size();i++){
             if(s[i]=='('){
                 st.push(i);
@@ -21,4 +21,4 @@ public:
         }
         return maxi;
     }
-}; 
+};
