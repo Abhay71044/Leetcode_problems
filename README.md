@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Abhay71044/Leetcode_problems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhay71044/Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0796-rotate-string) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhay71044/Leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abhay71044/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Abhay71044/Leetcode_problems/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay71044/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Abhay71044/Leetcode_problems/tree/master/1753-maximum-score-from-removing-stones) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhay71044/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Abhay71044/Leetcode_problems/tree/master/0853-car-fleet) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay71044/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay71044/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
