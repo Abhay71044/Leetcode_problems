@@ -11,21 +11,19 @@
 class Solution {
 public:
 
-    int findLen(ListNode* &head){
-        ListNode* temp=head;
+    int findlen(ListNode* head){
         int count=0;
-        while(temp!=NULL){
-            temp=temp->next;
+        while(head!=NULL){
+            head=head->next;
             count++;
         }
         return count;
     }
 
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head==NULL) return NULL;
-        int len=findLen(head);
-        int i=len-n;
-        if(n == len){
+        int len=findlen(head);
+        int k=len-n;
+        if(n==len){
             ListNode* temp=head;
             head=head->next;
             temp->next=NULL;
@@ -33,9 +31,9 @@ public:
             return head;
         }
         ListNode* temp=head;
-        while(i>1){
+        while(k>1){
             temp=temp->next;
-            i--;
+            k--;
         }
         ListNode* curr=temp->next;
         temp->next=curr->next;
