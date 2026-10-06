@@ -15,7 +15,7 @@ public:
             a=a->next;
             b=b->next;
         }
-        if(a==NULL){
+        if(b!=NULL){
             int blen=0;
             while(b!=NULL){
                 b=b->next;
@@ -25,7 +25,7 @@ public:
                 headB=headB->next;
             }
         }
-        if(b==NULL){
+        if(a!=NULL){
             int alen=0;
             while(a!=NULL){
                 a=a->next;
