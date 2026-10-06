@@ -5,7 +5,7 @@ public:
         int count=0;
         for(int i=0;i<s.size();i++){
             if(s[i]=='('){
-                st.push('(');
+                st.push(s[i]);
             }
             else{
                 if(!st.empty()){
@@ -17,8 +17,8 @@ public:
             }
         }
         while(!st.empty()){
-            count++;
             st.pop();
+            count++;
         }
         return count;
     }
