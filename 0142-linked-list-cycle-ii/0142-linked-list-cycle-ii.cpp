@@ -9,16 +9,16 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
+        if(head==NULL || head->next==NULL) return NULL;
         ListNode* slow=head;
         ListNode* fast=head;
-        if(head==NULL) return NULL;
         while(fast!=NULL){
             fast=fast->next;
             if(fast!=NULL){
-                fast=fast->next;
                 slow=slow->next;
+                fast=fast->next;
             }
-            if(fast==slow){
+            if(slow==fast){
                 slow=head;
                 break;
             }
