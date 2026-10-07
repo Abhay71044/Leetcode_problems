@@ -10,10 +10,10 @@
  */
 class Solution {
 public:
-    void reorderList(ListNode* head) {
-        if(head==NULL || head->next==NULL) return ;
+
+    ListNode* findmiddle(ListNode* head){
         ListNode* slow=head;
-        ListNode* fast=head;
+        ListNode* fast=head->next;
         while(fast!=NULL){
             fast=fast->next;
             if(fast!=NULL){
@@ -21,25 +21,34 @@ public:
                 fast=fast->next;
             }
         }
-        ListNode* second=slow->next;
-        slow->next=NULL;
+        return slow;
+    }
+
+    ListNode* reverse(ListNode* head){
         ListNode* prev=NULL;
-        ListNode* curr=second;
+        ListNode* curr=head;
         while(curr!=NULL){
             ListNode* forward=curr->next;
             curr->next=prev;
             prev=curr;
             curr=forward;
         }
-        second=prev;
+        return prev;
+    }
+
+    void reorderList(ListNode* head) {
+        ListNode* mid=findmiddle(head);
+        ListNode* second=mid->next;
+        mid->next=NULL;
+        second=reverse(second);
         ListNode* first=head;
-        while(second!=NULL){
-            ListNode* firstNext=first->next;
-            ListNode* secondNext=second->next;
+        while(first!=NULL && second!=NULL){
+            ListNode* firstnext=first->next;
+            ListNode* secondnext=second->next;
             first->next=second;
-            second->next=firstNext;
-            first=firstNext;
-            second=secondNext;
+            second->next=firstnext;
+            first=firstnext;
+            second=secondnext;
         }
     }
 };
