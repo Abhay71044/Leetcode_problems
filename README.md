@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhay71044/Leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhay71044/Leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhay71044/Leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhay71044/Leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhay71044/Leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhay71044/Leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhay71044/Leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhay71044/Leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
@@ -954,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
