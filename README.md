@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Abhay71044/Leetcode_problems/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Abhay71044/Leetcode_problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay71044/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhay71044/Leetcode_problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/Abhay71044/Leetcode_problems/tree/master/2418-sort-the-people) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -947,4 +951,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
