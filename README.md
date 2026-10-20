@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay71044/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay71044/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhay71044/Leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay71044/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1023,9 +1027,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
