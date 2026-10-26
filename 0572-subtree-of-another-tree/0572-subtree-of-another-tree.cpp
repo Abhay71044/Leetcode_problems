@@ -12,14 +12,6 @@
 class Solution {
 public:
 
-    TreeNode* solve(TreeNode* root,int target){
-        if(root==NULL) return NULL;
-        if(root->val==target) return root;
-        TreeNode* leftans=solve(root->left,target);
-        if(leftans!=NULL) return leftans;
-        return solve(root->right,target);
-    }
-
     bool sametree(TreeNode* left,TreeNode* right){
         if(left==NULL && right==NULL) return true;
         if(left==NULL || right==NULL) return false;
