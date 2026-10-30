@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Abhay71044/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Abhay71044/Leetcode_problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhay71044/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Abhay71044/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1609-even-odd-tree) |
