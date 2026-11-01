@@ -991,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
@@ -1114,8 +1116,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhay71044/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhay71044/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abhay71044/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
