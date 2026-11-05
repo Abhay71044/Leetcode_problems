@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhay71044/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhay71044/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Abhay71044/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhay71044/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay71044/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhay71044/Leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Abhay71044/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Abhay71044/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [2326-spiral-matrix-iv](https://github.com/Abhay71044/Leetcode_problems/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/Abhay71044/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhay71044/Leetcode_problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Abhay71044/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/1609-even-odd-tree) |
@@ -1126,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abhay71044/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Abhay71044/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Abhay71044/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
