@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay71044/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abhay71044/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Abhay71044/Leetcode_problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Abhay71044/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Abhay71044/Leetcode_problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Abhay71044/Leetcode_problems/tree/master/0735-asteroid-collision) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Abhay71044/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Abhay71044/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/Abhay71044/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Abhay71044/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Abhay71044/Leetcode_problems/tree/master/0835-image-overlap) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Abhay71044/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0938-range-sum-of-bst) |
@@ -1062,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abhay71044/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay71044/Leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhay71044/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Abhay71044/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Abhay71044/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Abhay71044/Leetcode_problems/tree/master/0994-rotting-oranges) |
@@ -1120,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhay71044/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhay71044/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Abhay71044/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Abhay71044/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
