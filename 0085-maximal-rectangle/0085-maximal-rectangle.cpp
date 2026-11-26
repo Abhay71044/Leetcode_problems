@@ -39,8 +39,6 @@ public:
             if(next[i]==-1){
                 next[i]=heights.size();
             }
-            int a=next[i];
-            int b=prev[i];
             int wid=next[i]-prev[i]-1;
             int len=heights[i];
             int area=wid*len;
@@ -68,7 +66,6 @@ public:
                     v[i][j]=0;
                 }
             }
-            int ans=
             maxi=max(maxi,largestRectangleArea(v[i]));
         }
         return maxi;
