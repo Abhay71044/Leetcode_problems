@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhay71044/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay71044/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Abhay71044/Leetcode_problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhay71044/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Abhay71044/Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Abhay71044/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Abhay71044/Leetcode_problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Abhay71044/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay71044/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Abhay71044/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Abhay71044/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Abhay71044/Leetcode_problems/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Abhay71044/Leetcode_problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhay71044/Leetcode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhay71044/Leetcode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1161,4 +1164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Abhay71044/Leetcode_problems/tree/master/0210-course-schedule-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhay71044/Leetcode_problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhay71044/Leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
